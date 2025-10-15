@@ -1,0 +1,14 @@
+# reposirotio
+https://github.com/antoninolenin8891-max/aprendizaje_supervisado-
+
+#descripcion de uso de la modelo avtivar el entorno virtual
+
+venv\Scripts\activate
+
+#instalar las librerias necesarias
+pip install -r requirements.txt
+         
+         
+#para usar la modelo colocar en la terminal 
+
+ streamlit run src/app.py   
